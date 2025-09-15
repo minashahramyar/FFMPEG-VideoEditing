@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/FFMPEG_VideoEditing.egg-info/PKG-INFO
+src/FFMPEG_VideoEditing.egg-info/SOURCES.txt
+src/FFMPEG_VideoEditing.egg-info/dependency_links.txt
+src/FFMPEG_VideoEditing.egg-info/entry_points.txt
+src/FFMPEG_VideoEditing.egg-info/top_level.txt
+src/ffmpeg_videoediting/__init__.py
+src/ffmpeg_videoediting/cli.py
+src/ffmpeg_videoediting/detect.py
+src/ffmpeg_videoediting/ffutil.py

@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: FFMPEG-VideoEditing
+Version: 0.1.0
+Summary: Auto-detect first chapter and thumbnail using FFmpeg.
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

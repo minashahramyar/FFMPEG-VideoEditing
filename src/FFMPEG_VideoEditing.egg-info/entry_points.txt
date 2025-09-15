@@ -1,0 +1,2 @@
+[console_scripts]
+ffmpeg-videoediting = ffmpeg_videoediting.cli:main
